@@ -9,6 +9,9 @@ author_profile: true
 .page__title {
     display: none !important;
 }
+.single .page__content {
+    max-width: 950px !important;
+}
 </style>
 
 ## Working Papers
