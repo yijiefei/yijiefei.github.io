@@ -15,7 +15,10 @@ main:
     url: /research/  
 
   - title: "Teaching"
-    url: /teaching/            
+    url: /teaching/ 
+
+  - title: "中文简历"
+    url: /cv_chinese/
        
   # - title: "CV"
   #   url: /cv-json/
