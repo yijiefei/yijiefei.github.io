@@ -3,17 +3,8 @@ title: "Research"
 permalink: /research/
 layout: single
 author_profile: true
+classes: wide
 ---
-<style>
-.page {
-  max-width: none !important;
-}
-
-.page__content {
-    max-width: none !important;
-    width: 100% !important;
-}
-</style>
 
 ## Working Papers
 1. [Clustering for block correlation models](https://fba.um.edu.mo/wp-content/uploads/2026/06/main04.pdf) (with Chen, H., Wang, Y. & Yu, J.), R&R at ***Journal of Econometrics***.
