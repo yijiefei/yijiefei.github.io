@@ -23,11 +23,11 @@ author_profile: true
 </style>
 
 ## Working Papers
-1. [Clustering for block correlation models](https://fba.um.edu.mo/wp-content/uploads/2026/06/main04.pdf) (with Chen, H., Wang, Y. & Yu, J.),<br> R&R at ***Journal of Econometrics***.
+1. [Clustering for block correlation models](https://fba.um.edu.mo/wp-content/uploads/2026/06/main04.pdf) (with Chen, H., Wang, Y. & Yu, J.)， R&R at ***Journal of Econometrics***.
 
-2. [Time series regression with mildly integrated errors](https://fba.um.edu.mo/wp-content/uploads/2026/03/MSVFisher_block03.pdf) (with Lui, Y.L. & Yu, J.),<br> R&R at ***Journal of Econometrics***.
+2. [Time series regression with mildly integrated errors](https://fba.um.edu.mo/wp-content/uploads/2026/03/MSVFisher_block03.pdf) (with Lui, Y.L. & Yu, J.), R&R at ***Journal of Econometrics***.
 
-3. [Multivariate stochastic volatility model with block correlations](https://fba.um.edu.mo/wp-content/uploads/2024/05/Main_onefile10.pdf) (with Chen, H. & Yu, J.),<br> R&R at ***Journal of Business & Economic Statistics***.
+3. [Multivariate stochastic volatility model with block correlations](https://fba.um.edu.mo/wp-content/uploads/2024/05/Main_onefile10.pdf) (with Chen, H. & Yu, J.), R&R at ***Journal of Business & Economic Statistics***.
 
 4. Counterfactual Analysis and Inference in Continuous‑Time Models (with Lui, Y.L. & Yu, J.). 
 
