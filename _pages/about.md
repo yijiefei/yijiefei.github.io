@@ -16,6 +16,7 @@ redirect_from:
 .pos-year-block {
   min-width: 9.2ch;
   flex-shrink: 0;
+  text-align: right;
 }
 .pos-title {
 }
