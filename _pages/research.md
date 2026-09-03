@@ -5,6 +5,10 @@ layout: single
 author_profile: true
 ---
 <style>
+.page {
+  max-width: none !important;
+}
+
 .page__content {
     max-width: none !important;
     width: 100% !important;
