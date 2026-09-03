@@ -8,26 +8,38 @@ redirect_from:
 ---
 
 <style>
-.pos-item {
-  display: flex;
-  gap: 0.8em;
-  margin-bottom: 0.6em;
+.pos-table {
+  width: 100%;
 }
-.pos-year-block {
-  min-width: 9.2ch;
-  flex-shrink: 0;
-  text-align: right;
+.pos-tr {
+  display: table-row;
 }
-.pos-title {
+.pos-td-year {
+  display: table-cell;
+  white-space: nowrap;
+  /* 年份列：内容本身左对齐，宽度由最长年份决定 */
+  padding-right: 0.8em;
 }
-@media (max-width:640px){
-  .pos-item{
-    flex-direction:column;
+.pos-td-desc {
+  display: table-cell;
+  text-align: justify; /* ✅两端对齐，让行尾单词尽量贴右边 */
+  width: 100%;
+}
+@media (max-width:640px) {
+  .pos-tr {
+    display:block;
+    margin-bottom:0.8em;
   }
-  .pos-year-block{
-    min-width:auto;
+  .pos-td-year {
+    display:block;
+    padding-right:0;
     margin-bottom:0.2em;
     color:#666;
+  }
+  .pos-td-desc {
+    display:block;
+    width:100%;
+    text-align:left;
   }
 }
 </style>
@@ -35,14 +47,15 @@ redirect_from:
 I am an associate professor at College of Finance and Statistics, Hunan University. Prior to this, I obtained a Ph.D. in Economics from Singapore Management University in 2020. My research interests are in the fields of econometric theory, with a specialization in financial econometrics.
 
 ## Position
-<div class="pos-item">
-<div class="pos-year-block">2026.7‑</div>
-<div class="pos-title">Associate Professor, Hunan University</div>
-</div>
-
-<div class="pos-item">
-<div class="pos-year-block">2021.4‑2026.6</div>
-<div class="pos-title">Assistant Professor, Hunan University</div>
+<div class="pos-table">
+  <div class="pos-tr">
+    <div class="pos-td-year">2026.7‑</div>
+    <div class="pos-td-desc">Associate Professor, Hunan University</div>
+  </div>
+  <div class="pos-tr">
+    <div class="pos-td-year">2021.4‑2026.6</div>
+    <div class="pos-td-desc">Assistant Professor, Hunan University</div>
+  </div>
 </div>
 
 ## Education
