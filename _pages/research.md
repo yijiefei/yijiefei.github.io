@@ -12,7 +12,7 @@ author_profile: true
 </style>
 
 ## Working Papers
-1. Clustering for block correlation models (with Chen, H., Wang, Y. & Yu, J.), R&R at *Journal of Econometrics*.
+1. Clustering for block correlation models (with Chen, H., Wang, Y. & Yu, J.), R&R at ***Journal of Econometrics***.
 
 2. Time series regression with mildly integrated errors (with Lui, Y.L. & Yu, J.), R&R at ***Journal of Econometrics***.
 
