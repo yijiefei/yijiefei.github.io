@@ -10,7 +10,7 @@ author_profile: true
     display: none !important;
 }
 .single .page__content {
-    max-width: 950px !important;
+    max-width: 1000px !important;
 }
 </style>
 
