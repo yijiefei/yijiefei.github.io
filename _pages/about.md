@@ -32,14 +32,15 @@ redirect_from:
 
 I am an associate professor at College of Finance and Statistics, Hunan University. Prior to this, I obtained a Ph.D. in Economics from Singapore Management University in 2020. My research interests are in the fields of econometric theory, with a specialization in financial econometrics.
 
+## Position
 <div class="pos-item">
 <div class="pos-year-block">2026.7‑</div>
-<div class="pos-title"><strong>Associate Professor</strong>, Hunan University</div>
+<div class="pos-title">Associate Professor, Hunan University</div>
 </div>
 
 <div class="pos-item">
 <div class="pos-year-block">2021.4‑2026.6</div>
-<div class="pos-title"><strong>Assistant Professor</strong>, Hunan University</div>
+<div class="pos-title">Assistant Professor, Hunan University</div>
 </div>
 
 ## Education
