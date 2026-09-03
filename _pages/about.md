@@ -44,5 +44,9 @@ I am an associate professor at College of Finance and Statistics, Hunan Universi
 </div>
 
 ## Education
-- 2015.8‑2020.8 Ph.D. in Economics, Singapore Management University (Advisor: [Jun Yu](https://fba.um.edu.mo/faculty/junyu/))
+<div class="pos-item">
+<div class="pos-year-block">2015.8‑2020.8</div>
+<div class="pos-title">Ph.D. in Economics, Singapore Management University (Advisor: [Jun Yu](https://fba.um.edu.mo/faculty/junyu/))</div>
+</div>
+
 
