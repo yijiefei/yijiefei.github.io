@@ -9,7 +9,7 @@ author_profile: true
 .page__title {
     display: none !important;
 }
-.single .page__content {
+.sidebar__right .page__content {
     max-width: 1000px !important;
 }
 </style>
