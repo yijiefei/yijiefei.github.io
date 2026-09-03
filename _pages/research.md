@@ -9,8 +9,16 @@ author_profile: true
 .page__title {
     display: none !important;
 }
-.sidebar__right .page__content {
-    max-width: 1000px !important;
+.sidebar__right {
+    display: grid !important;
+    /* 原来大概 300px 1fr；把侧边栏固定宽度调小为240px，剩下全部交给正文 */
+    grid-template-columns: 240px 1fr !important;
+    gap: 2rem !important;
+}
+
+.page__content {
+    max-width: none !important;
+    width: 100% !important;
 }
 </style>
 
