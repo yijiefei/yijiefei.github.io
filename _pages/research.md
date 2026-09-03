@@ -4,9 +4,12 @@ permalink: /research/
 layout: single
 author_profile: true
 ---
-
-## Research Fields
-Econometric Theory, Financial Econometrics, Empirical Finance
+<style>
+/* 仅隐藏本页 single布局的页面大标题，导航不受影响 */
+.page__title {
+    display: none !important;
+}
+</style>
 
 ## Publications
 1. Multivariate stochastic volatility models based on generalized Fisher transformation (with Chen, H. & Yu, J.), *Journal of Econometrics*, 251, 106041, 2025.
