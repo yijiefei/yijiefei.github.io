@@ -9,8 +9,9 @@ redirect_from:
 
 <style>
 .pos-item {
-  display:flex;
-  margin-bottom:0.6em;
+  display: flex;
+  gap: 0.8em;
+  margin-bottom: 0.6em;
 }
 .pos-year-block {
   min-width: 9.2ch;
