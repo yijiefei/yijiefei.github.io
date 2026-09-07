@@ -1,38 +1,26 @@
 /* 针对开启 wide + author_profile 的页面，提高选择器权重 */
-body.page-wide #main.wide {
+body.layout--single #main {
   max-width: 1600px !important;
-  width: 100% !important;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  width:100% !important;
+  margin:0 auto !important;
+  padding-left:1rem;
+  padding-right:1rem;
 }
-
-body.page-wide #main.wide .sidebar__right {
-  display: grid !important;
-  grid-template-columns: 230px minmax(0, 1fr) !important;
-  gap: 2rem !important;
-  max-width: none !important;
-  width: 100% !important;
+body.layout--single #main .sidebar__right {
+  display:grid !important;
+  grid-template-columns:220px minmax(0,1fr) !important;
+  gap:2rem !important;
+  max-width:100% !important;
 }
-
-body.page-wide #main.wide .page__content {
-  max-width: none !important;
-  width: 100% !important;
-  padding-right: 0 !important;
+body.layout--single #main .page__content {
+  max-width:100% !important;
 }
-
-.page__content ol li {
-  line-height:1.7;
-  margin-bottom:1em;
-  overflow-wrap:normal;
-  word-break:normal;
-}
-
 @media (max-width:768px){
-  body.page-wide #main.wide .sidebar__right {
+  body.layout--single #main .sidebar__right {
     grid-template-columns:1fr !important;
   }
-  body.page-wide #main.wide {
-    padding-left: 0.5rem;
+  body.layout--single #main {
+    padding-left:0.5rem;
     padding-right:0.5rem;
   }
 }
