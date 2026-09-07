@@ -1,7 +1,7 @@
 /* 针对开启 wide + author_profile 的页面，提高选择器权重 */
 .page__footer {
   position: static !important;
-  width: 100% !important;
+  width: 100vw !important;
   bottom: auto !important;
   left: auto !important;
   right: auto !important;
