@@ -55,10 +55,6 @@ body.layout--single #main .page__content {
   .masthead__brand {
     margin-right: 2rem !important;
   }
-  /* 桌面大屏：隐藏汉堡按钮 */
-  .menu-toggle {
-    display: none !important;
-  }
 }
 
 /* 小于768px：全部交给主题原生样式，不做任何修改，汉堡正常出现 */
