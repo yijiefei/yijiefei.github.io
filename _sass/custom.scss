@@ -38,4 +38,39 @@ body.layout--single #main .page__content {
   max-width: 1600px !important;
 }
 
+@media (min-width: 768px) {
+  .masthead__inner-wrap {
+    display: flex !important;
+    justify-content: flex-start !important;
+    align-items: center !important;
+    /* 干掉容器max‑width，清除左右内边距，贴屏幕边缘 */
+    max-width: none !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  .masthead__menu {
+    float: none !important;
+    clear: none !important;
+  }
+  .masthead__menu ul {
+    display: flex !important;
+    gap: 2rem !important;
+  }
+  .masthead__brand {
+    margin-right: 2rem !important;
+  }
+  .menu-toggle {
+    display: none !important;
+  }
+}
+
+/* 手机平板：完全不动主题原生样式，汉堡正常 */
+@media (max-width:767px) {
+  .masthead__inner-wrap {
+    display: block !important;
+  }
+  .masthead__menu ul {
+    display: block !important;
+  }
+}
 
