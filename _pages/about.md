@@ -62,10 +62,10 @@ I am an associate professor at College of Finance and Statistics, Hunan Universi
 <div class="pos-table">
   <div class="pos-tr">
     <div class="pos-td-year">2015.8‑2020.8</div>
-    <div class="pos-td-desc">Ph.D. in Economics, Singapore Management University <span>(Advisor: <a href="https://fba.um.edu.mo/faculty/junyu/" target="_blank">Jun Yu</a>)<\span></div>
+    <div class="pos-td-desc">Ph.D. in Economics, Singapore Management University <span>(Advisor: <a href="https://fba.um.edu.mo/faculty/junyu/" target="_blank">Jun Yu</a>)</span>span></div>
   </div>
   <div class="pos-tr">
-    <div class="pos-td-year">2014.8‑2025.7</div>
+    <div class="pos-td-year">2014.8‑2015.7</div>
     <div class="pos-td-desc">M.A. in Economics, University of British Columbia</div>
   </div>
   <div class="pos-tr">
