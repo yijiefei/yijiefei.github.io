@@ -6,29 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-<style>
-body.page-wide #main.wide {
-  max-width: none !important;
-  width:100% !important;
-  padding-left:1rem;
-  padding-right:1rem;
-}
-body.page-wide #main.wide .sidebar__right{
-  display:grid !important;
-  grid-template-columns:230px minmax(0,1fr) !important;
-  gap:2rem !important;
-  max-width:none !important;
-  width:100% !important;
-}
-body.page-wide #main.wide .page__content{
-  max-width:none !important;
-  width:100% !important;
-}
-@media (max-width:768px){
-  body.page-wide #main.wide .sidebar__right{grid-template-columns:1fr !important;}
-}
-</style>
-
 ## Working Papers
 1. [Clustering for block correlation models](https://fba.um.edu.mo/wp-content/uploads/2026/06/main04.pdf) (with Chen, H., Wang, Y. & Yu, J.), R&R at ***Journal of Econometrics***.
 
