@@ -37,3 +37,31 @@ body.layout--single #main .page__content {
 .page__inner-wrap {
   max-width: 1600px !important;
 }
+
+.masthead__inner-wrap {
+  display: flex !important;
+  justify-content: flex-start !important;
+  align-items: center !important;
+}
+.masthead__menu {
+  float: none !important;
+  clear:none !important;
+}
+.masthead__menu ul {
+  display:flex !important;
+  gap:2rem !important;
+}
+/* 隐藏原本logo/标题的右边距 */
+.masthead__brand {
+  margin-right:2rem !important;
+}
+
+/* 手机端保留汉堡菜单原生行为，不改动 */
+@media (max-width:768px) {
+  .masthead__inner-wrap {
+    display:block !important;
+  }
+  .masthead__menu ul {
+    display:block !important;
+  }
+}
