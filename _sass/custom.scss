@@ -1,21 +1,20 @@
-// wide模式：彻底解除#main最大宽度限制，允许grid一直撑到浏览器窗口边缘
-#main.wide {
+/* 针对开启 wide + author_profile 的页面，提高选择器权重 */
+body.page-wide #main.wide {
   max-width: none !important;
   width: 100% !important;
   padding-left: 1rem;
   padding-right: 1rem;
 }
 
-.sidebar__right {
+body.page-wide #main.wide .sidebar__right {
   display: grid !important;
-  /* 固定侧边栏宽度，剩余全部空间交给正文，minmax(0,1fr)防止grid内容不收缩bug */
   grid-template-columns: 230px minmax(0, 1fr) !important;
   gap: 2rem !important;
   max-width: none !important;
   width: 100% !important;
 }
 
-.page__content {
+body.page-wide #main.wide .page__content {
   max-width: none !important;
   width: 100% !important;
   padding-right: 0 !important;
@@ -28,13 +27,13 @@
   word-break:normal;
 }
 
-/* 小屏幕：变回单列，适配手机竖屏 */
 @media (max-width:768px){
-  .sidebar__right {
+  body.page-wide #main.wide .sidebar__right {
     grid-template-columns:1fr !important;
   }
-  #main.wide {
+  body.page-wide #main.wide {
     padding-left: 0.5rem;
     padding-right:0.5rem;
   }
 }
+
