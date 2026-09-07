@@ -30,10 +30,10 @@ classes: wide
 
 ## Grants
 
-1. National Natural Science Foundation of China, Youth Fund (type C)
+1. National Natural Science Foundation of China, Youth Fund (type C), 2026-2028
 
-2. Provincial Natural Science Foundation of Hunan, Youth Fund (type C)
+2. Provincial Natural Science Foundation of Hunan, Youth Fund (type C), 2025-2027
 
-3. Fundamental Research Funds for the Central Universities in China
+3. Fundamental Research Funds for the Central Universities in China, 2021-2026
 
 
