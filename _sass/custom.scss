@@ -1,9 +1,5 @@
 /* 针对开启 wide + author_profile 的页面，提高选择器权重 */
 
-footer {
-  position: static !important;
-}
-
 body.layout--single #main {
   max-width: 1600px !important;
   width:100% !important;
