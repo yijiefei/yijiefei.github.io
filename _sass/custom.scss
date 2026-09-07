@@ -28,4 +28,12 @@ body.layout--single #main .page__content {
     padding-right:0.5rem;
   }
 }
-
+.page {
+  max-width: 1600px !important;
+}
+#main {
+  max-width: 1600px !important;
+}
+.page__inner-wrap {
+  max-width: 1600px !important;
+}
