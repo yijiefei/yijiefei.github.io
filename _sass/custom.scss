@@ -1,8 +1,4 @@
 /* 针对开启 wide + author_profile 的页面，提高选择器权重 */
-.wrapper {
-  display: block !important;
-  min-height: auto !important;
-}
 
 footer {
   position: static !important;
