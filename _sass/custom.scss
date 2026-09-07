@@ -1,6 +1,6 @@
 /* 针对开启 wide + author_profile 的页面，提高选择器权重 */
 body.page-wide #main.wide {
-  max-width: none !important;
+  max-width: 1600px !important;
   width: 100% !important;
   padding-left: 1rem;
   padding-right: 1rem;
