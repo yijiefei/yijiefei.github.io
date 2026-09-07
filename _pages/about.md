@@ -66,7 +66,7 @@ I am an associate professor at College of Finance and Statistics, Hunan Universi
   </div>
   <div class="pos-tr">
     <div class="pos-td-year">2014.8‑2025.7</div>
-    <div class="pos-td-desc">M.A. in Economics, University of British Columbia </div>
+    <div class="pos-td-desc">M.A. in Economics, University of British Columbia</div>
   </div>
   <div class="pos-tr">
     <div class="pos-td-year">2010.9‑2014.6</div>
