@@ -16,7 +16,7 @@ classes: wide
 4. Counterfactual Analysis and Inference in Continuous‑Time Models (with Lui, Y.L. & Yu, J.). 
 
 ## Publications
-5. [Multivariate stochastic volatility models based on generalized Fisher transformation](https://www.sciencedirect.com/science/article/pii/S0304407625000958) (with Chen, H. & Yu, J.), <br>***Journal of Econometrics***, 251, 106041, 2025.
+5. [Multivariate stochastic volatility models based on generalized Fisher transformation](https://www.sciencedirect.com/science/article/pii/S0304407625000958) (with Chen, H. & Yu, J.), ***Journal of Econometrics***, 251, 106041, 2025.
 
 6. [Spurious significance under shifted mean](https://link.springer.com/article/10.1007/s00181-026-02899-1), ***Empirical Economics***, 70(42), 2026.
 
