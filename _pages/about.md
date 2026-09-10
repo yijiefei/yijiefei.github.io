@@ -71,6 +71,6 @@ I am an associate professor at College of Finance and Statistics, Hunan Universi
   </div>
   <div class="pos-tr">
     <div class="pos-td-year">2010.9‑2014.6</div>
-    <div class="pos-td-desc">Bachelor in Economics, Shanghai University of Finance and Economics 
+    <div class="pos-td-desc">B.A. in Economics, Shanghai University of Finance and Economics 
 
 
